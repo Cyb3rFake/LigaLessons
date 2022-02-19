@@ -2,7 +2,7 @@ package lesson_3;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//TODO: Где описания класса?
 public class MusicPlayer {
 
     public static String testStaticValue;
