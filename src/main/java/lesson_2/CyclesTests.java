@@ -1,7 +1,7 @@
 package lesson_2;
 
 import java.util.Arrays;
-
+//TODO: не корректный пример использования отдельного запуска методов для демонстрации функционала.
 public class CyclesTests {
     public static void main(String[] args) {
         continueTest();
